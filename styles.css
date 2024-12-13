@@ -60,8 +60,8 @@ button {
     border-radius: 5px;
 }
 
-button:hover {
-    background-color: #004d40;
+button:hover {  
+    background-color: #da0808;
     transform: scale(1.1);
 }
 
