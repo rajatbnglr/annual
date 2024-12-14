@@ -77,3 +77,19 @@ audio {
     top: 1px; /* Adjust as necessary */
     right: 1px; /* Adjust as necessary */
 }
+.marquee-container {
+    margin-top: 20px;
+}
+
+#trackMarquee {
+    font-size: 18px;
+    color: #00796b;
+}
+.marquee-container {
+    margin-top: 20px;
+}
+
+#trackMarquee {
+    font-size: 18px;
+    color: #00796b;
+}
