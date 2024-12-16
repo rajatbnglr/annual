@@ -6,7 +6,7 @@ body {
 }
 
 .container {
-    max-width: 500px; /* Made the container narrower */
+    max-width: 600px; /* Made the container narrower */
     margin: 0 auto;
     background-color: #ffffff;
     padding: 20px;
